@@ -1,0 +1,17 @@
+<section class="memberinfo">
+    <div class="team cf" ng-model="members">
+        <a href="details/{{prevItem}}" class="btn btn-left">&lt</a>
+        <a href="details/{{nextItem}}" class="btn btn-right">&gt</a>
+        <h1>{{members[whichItem].name}}</h1>
+        <div class="info">
+            <h3>{{members[whichItem].team}}</h3>
+            <img ng-src="images/{{members[whichItem].shortname}}_tn.jpg" alt="Photo of {{members[whichItem].name}}">
+            <div class="bio">{{members[whichItem].bio}}</div>
+
+
+        </div>
+
+    </div>
+    <span class="intfact"><span class="topic">Interesting fact :</span> {{members[whichItem].intfact}} </span><br>
+    &lt&lt<span><a href="list"> Back to search</a></span>
+</section>

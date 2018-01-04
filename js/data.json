@@ -1,0 +1,79 @@
+[
+  {
+    "name":"Ronald Rosh",
+    "shortname":"Ronald_Rosh",
+    "team":"QC Management",
+    "bio":"Ronald is a part of QC team which fulfills requests from business and other teams. She is with team for the past one and half years",
+    "intfact": "She is an expert in cat walking"
+  },
+  {
+    "name":"Neha Sharma",
+    "shortname":"Neha_Sharma",
+    "team":"Problem Management",
+    "bio":"Sharma has pretty much worked on all areas of team and is currently in PM team. She is here for the past five years ",
+    "intfact":"She loves to scream loud"
+  },
+  {
+    "name":"Debashish Jay",
+    "shortname":"Debashish_Jay",
+    "team":"Problem Management",
+    "bio":"Debashish is a part of development team and has delivered quality products over time. He is with this team for the lst 3 years",
+    "intfact":"Cant talk, FACEBOOK only !!!"
+  },
+  {
+    "name":"Michael Heeler",
+    "shortname":"Michael_Heeler",
+    "team":"Incident Management",
+    "bio":"Michael works in IM team and is currently delivering his responsibilities from onshore. He is with the team for three and half years",
+    "intfact":"Haven't you seen his biceps?"
+  },
+  {
+    "name":"Surya Deb",
+    "shortname":"Surya_Deb",
+    "team":"Incident Management",
+    "bio":"Surya works in IM team and is currently delivering his responsibilities from onshore. She is with the team for three and half years",
+    "intfact":"Whenever it is boring she just go create a store"
+  },
+  {
+    "name":"Manue Moe",
+    "shortname":"Manue_Moe",
+    "team":"Incident Management",
+    "bio":"Manue is the back bone of picking team. He is with the project for 4 years and he is a part of IM team",
+    "intfact":"Two words : silent and overzealous"
+  },
+  {
+    "name":"Ranjith Vadakkumthanni",
+    "shortname":"Ranjith_Vadakkumthanni",
+    "team":"Transition",
+    "bio":"Ranjith is currently a part of transition team. He is with the team for past four and half years ",
+    "intfact":"Update later"
+  },
+  {
+    "name":"Raymond Carta",
+    "shortname":"Raymond_Carta",
+    "team":"Transition",
+    "bio":"Raymond has extensive experience in Online environment. He has worked in development, support and is currently leading the transition team. He is with the team for the past five years",
+    "intfact":"He keeps on following up. You can dismiss a reminder but you can't dismiss Raymond"
+  },
+  {
+    "name":"Jenny Roy",
+    "shortname":"Jenny_Roy",
+    "team":"Problem Management",
+    "bio":"Jenny is currently a part of problem management  team. She is with the team for past four and half years",
+    "intfact":"She is fond of speaking hindi and yes guyzz it is Hindi !!!"
+  },
+  {
+    "name":"Julie Stalin",
+    "shortname":"Julie_Stalin",
+    "team":"QC Management",
+    "bio":"Julie is a part of QC team and has worked on other stream as well. She is with the team for past two and half years",
+    "intfact":"She uses two words extensively. CHETTA and CHECHI"
+  },
+  {
+    "name":"Valentina Rosie",
+    "shortname":"Valentina_Rosie",
+    "team":"Problem Management",
+    "bio":"Valentina is a part of PM team . She is with the team for past two and half years",
+    "intfact":"She went to Singapore to just get her hair cut !!!"
+  }
+]
